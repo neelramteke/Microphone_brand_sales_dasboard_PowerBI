@@ -1,10 +1,10 @@
 # Microphone_brand_sales_dasboard_PowerBI
-It is sales dashboard of various products of a generic microphone brand which has verity of microphones. 
+It is sales dashboard of various products of a generic microphone brand which has verity of microphones. Here, I have firstly cleaned and modelled the data using SQL and made a data pipeline by connecting the MS SQL server to PowerBI to seamlessly transfer the data to the dashboard making it a realtime dashboard.
 ![image](https://github.com/user-attachments/assets/2269763d-dafe-49d0-8631-c30d047266e6)
 ![image](https://github.com/user-attachments/assets/ca111de2-8b61-4af4-b34f-443b52848b72)
 
-**Overview**
-This is a Microphone Brand Sales Dashboard designed to provide insightful analytics on sales performance, demographics, and customer behavior. The dashboard uses interactive visualizations to represent data dynamically, offering a detailed overview of the product's performance and trends.
+**Overview:**
+ This is a Microphone Brand Sales Dashboard designed to provide insightful analytics on sales performance, demographics, and customer behavior. The dashboard uses interactive visualizations to represent data dynamically, offering a detailed overview of the product's performance and trends.
 
 Key highlights include:
 
